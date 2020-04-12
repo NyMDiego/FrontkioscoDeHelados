@@ -1,0 +1,9 @@
+.login > li > a{
+    color: black;
+}
+
+.dropdown-menu, .dropdown-item {
+    padding-left: 20px;
+    background-color: #ffff72;
+    border: none;
+}
